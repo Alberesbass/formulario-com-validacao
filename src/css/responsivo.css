@@ -1,0 +1,48 @@
+@media (max-width: 768px) {
+  .principal {
+    flex-direction: column;
+  }
+
+  .infomacoes {
+    width: 450px;
+    text-align: center;
+  }
+
+  .infomacoes h1 {
+    font-size: 30px;
+  }
+
+  .infomacoes p {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 576px) {
+  .principal {
+    gap: 50px;
+  }
+
+  .infomacoes {
+    width: 320px;
+    text-align: center;
+    gap: 14px;
+  }
+
+  .infomacoes h1 {
+    font-size: 22px;
+  }
+
+  .infomacoes p {
+    font-size: 16px;
+  }
+
+  .formulario {
+    width: 350px;
+  }
+}
+
+@media (max-width: 361px) {
+  .formulario {
+    width: 330px;
+  }
+}

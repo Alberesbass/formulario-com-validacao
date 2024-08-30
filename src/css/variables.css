@@ -1,0 +1,11 @@
+:root {
+  --cor-texto-informativo: hsl(0, 0%, 100%);
+  --cor-bg-formulario: hsl(0, 0%, 100%);
+  --cor-input-padrao: hsl(0, 0%, 0%);
+  --cor-input-correto: hsl(133, 100%, 38%);
+  --cor-alerta-input: hsl(0, 91%, 57%);
+  --cor-placeholder: hsla(0, 0%, 66%, 0.847);
+  --cor-texto-input: hsl(0, 0%, 0%);
+  --cor-informativo-formulario: hsl(0, 0%, 0%);
+  --cor-bg-botao: hsl(151, 59%, 52%);
+}
