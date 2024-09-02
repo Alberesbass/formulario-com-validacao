@@ -73,6 +73,9 @@ body {
   height: 120px;
   padding-bottom: 90px;
   padding-top: 10px;
+  resize: none;
+  overflow: hidden;
+  font-family: "Roboto", sans-serif;
 }
 
 .formulario .campo-obrigatorio {
